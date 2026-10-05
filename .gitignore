@@ -1,0 +1,22 @@
+# Target & Build Output
+target/
+**/target/
+dist/
+**/dist/
+node_modules/
+**/node_modules/
+
+# IDE & Editor files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
